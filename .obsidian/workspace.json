@@ -11,14 +11,14 @@
             "id": "c44236a843649a68",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "漢字・語彙（かんじ・ごい）.md",
-                "bFile": "漢字・語彙（かんじ・ごい）.md",
-                "aRef": ""
+                "file": "文（ぶん）.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 漢字・語彙（かんじ・ごい）"
+              "icon": "lucide-file",
+              "title": "文（ぶん）"
             }
           }
         ]
@@ -142,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "文（ぶん）.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 文（ぶん）"
             }
           },
           {
