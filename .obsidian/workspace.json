@@ -25,14 +25,14 @@
             "id": "2e17375815ffc8c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "グレ・１.md",
-                "mode": "source",
-                "source": false
+                "aFile": "グレ・１.md",
+                "bFile": "グレ・１.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "グレ・１"
+              "icon": "diff",
+              "title": "Diff: グレ・１"
             }
           }
         ],
@@ -157,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "グレ・１.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of グレ・１"
+              "title": "Outline"
             }
           },
           {
@@ -194,10 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3706dc11681c4da",
+  "active": "2e17375815ffc8c2",
   "lastOpenFiles": [
-    "漢字・語彙（かんじ・ごい）.md",
     "グレ・１.md",
+    "漢字・語彙（かんじ・ごい）.md",
     "文（ぶん）.md",
     "助詞(じょし）.md",
     "動詞（どうし）.md"
