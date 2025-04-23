@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e728daa29fc9e612",
+        "id": "b96575a46e4307b4",
         "type": "tabs",
         "children": [
           {
-            "id": "34f7ba7a2c26a964",
+            "id": "c44236a843649a68",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "漢字・語彙（かんじ・ごい）.md",
-                "bFile": "漢字・語彙（かんじ・ごい）.md",
-                "aRef": ""
+                "file": "漢字・語彙（かんじ・ごい）.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 漢字・語彙（かんじ・ごい）"
+              "icon": "lucide-file",
+              "title": "漢字・語彙（かんじ・ごい）"
             }
           }
         ]
@@ -142,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "file": "漢字・語彙（かんじ・ごい）.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 漢字・語彙（かんじ・ごい）"
             }
           },
           {
@@ -178,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34f7ba7a2c26a964",
+  "active": "d3706dc11681c4da",
   "lastOpenFiles": [
     "漢字・語彙（かんじ・ごい）.md",
     "動詞（どうし）.md",
