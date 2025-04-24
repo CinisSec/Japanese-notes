@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "漢字・語彙（かんじ・ごい）"
             }
-          },
-          {
-            "id": "2e17375815ffc8c2",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "グレ・１.md",
-                "bFile": "グレ・１.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: グレ・１"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "動詞（どうし）.md",
+                "file": "漢字・語彙（かんじ・ごい）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 動詞（どうし）"
+              "title": "Outgoing links from 漢字・語彙（かんじ・ごい）"
             }
           },
           {
@@ -157,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "漢字・語彙（かんじ・ごい）.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 漢字・語彙（かんじ・ごい）"
             }
           },
           {
@@ -193,12 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e17375815ffc8c2",
+  "active": "d3706dc11681c4da",
   "lastOpenFiles": [
+    "助詞(じょし）.md",
     "グレ・１.md",
     "漢字・語彙（かんじ・ごい）.md",
     "文（ぶん）.md",
-    "助詞(じょし）.md",
     "動詞（どうし）.md"
   ]
 }
