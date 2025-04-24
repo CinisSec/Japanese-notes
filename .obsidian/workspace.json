@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b96575a46e4307b4",
+        "id": "6bd7d84f8fd951a8",
         "type": "tabs",
         "children": [
           {
-            "id": "c44236a843649a68",
+            "id": "47dbc4d04c103cfd",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "接獄司（せつごくし）.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "接獄司（せつごくし）"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 228.5
   },
   "right": {
     "id": "c094486a58ed7853",
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "接獄司（せつごくし）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 接獄司（せつごくし）"
             }
           },
           {
@@ -141,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": true,
+                "file": "接獄司（せつごくし）.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 接獄司（せつごくし）"
             }
           },
           {
@@ -179,9 +181,10 @@
   },
   "active": "d3706dc11681c4da",
   "lastOpenFiles": [
+    "文（ぶん）.md",
+    "接獄司（せつごくし）.md",
     "漢字・語彙（かんじ・ごい）.md",
     "詩集（ししゅう）.md",
-    "文（ぶん）.md",
     "グレ・１.md",
     "助詞(じょし）.md",
     "動詞（どうし）.md"
