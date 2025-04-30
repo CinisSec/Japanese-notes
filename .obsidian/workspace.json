@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文（ぶん）.md",
+                "file": "漢字・語彙（かんじ・ごい）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文（ぶん）"
+              "title": "漢字・語彙（かんじ・ごい）"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文（ぶん）.md",
+                "file": "漢字・語彙（かんじ・ごい）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 文（ぶん）"
+              "title": "Outgoing links from 漢字・語彙（かんじ・ごい）"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文（ぶん）.md",
+                "file": "漢字・語彙（かんじ・ごい）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 文（ぶん）"
+              "title": "Outline of 漢字・語彙（かんじ・ごい）"
             }
           },
           {
@@ -179,11 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47dbc4d04c103cfd",
+  "active": "d3706dc11681c4da",
   "lastOpenFiles": [
-    "漢字・語彙（かんじ・ごい）.md",
-    "文（ぶん）.md",
     "接獄司（せつごくし）.md",
+    "文（ぶん）.md",
+    "漢字・語彙（かんじ・ごい）.md",
     "助詞(じょし）.md",
     "グレ・１.md",
     "詩集（ししゅう）.md",
