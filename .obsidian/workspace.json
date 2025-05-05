@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6bd7d84f8fd951a8",
+        "id": "db55f3fdd8caa599",
         "type": "tabs",
         "children": [
           {
-            "id": "47dbc4d04c103cfd",
+            "id": "e164514f9cdea9c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "漢字・語彙（かんじ・ごい）.md",
-                "mode": "source",
-                "source": false
+                "aFile": "グレ・１.md",
+                "bFile": "グレ・１.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "漢字・語彙（かんじ・ごい）"
+              "icon": "diff",
+              "title": "Diff: グレ・１"
             }
           }
         ]
@@ -113,12 +113,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "漢字・語彙（かんじ・ごい）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 漢字・語彙（かんじ・ごい）"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "漢字・語彙（かんじ・ごい）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 漢字・語彙（かんじ・ごい）"
+              "title": "Outline"
             }
           },
           {
@@ -166,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,13 +177,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3706dc11681c4da",
+  "active": "e164514f9cdea9c2",
   "lastOpenFiles": [
+    "JLPT N5 Vocabulary List (with Kanji).md",
+    "漢字・語彙（かんじ・ごい）.md",
     "接獄司（せつごくし）.md",
     "文（ぶん）.md",
-    "漢字・語彙（かんじ・ごい）.md",
-    "助詞(じょし）.md",
     "グレ・１.md",
+    "助詞(じょし）.md",
     "詩集（ししゅう）.md",
     "動詞（どうし）.md"
   ]
