@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "グレ・１.md",
-                "bFile": "グレ・１.md",
+                "aFile": "漢字・語彙（かんじ・ごい）.md",
+                "bFile": "漢字・語彙（かんじ・ごい）.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: グレ・１"
+              "title": "Diff: 漢字・語彙（かんじ・ごい）"
             }
           }
         ]
@@ -179,10 +179,10 @@
   },
   "active": "e164514f9cdea9c2",
   "lastOpenFiles": [
-    "JLPT N5 Vocabulary List (with Kanji).md",
     "漢字・語彙（かんじ・ごい）.md",
-    "接獄司（せつごくし）.md",
     "文（ぶん）.md",
+    "JLPT N5 Vocabulary List (with Kanji).md",
+    "接獄司（せつごくし）.md",
     "グレ・１.md",
     "助詞(じょし）.md",
     "詩集（ししゅう）.md",
