@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "文（ぶん）"
             }
+          },
+          {
+            "id": "5fe161f72fa5f4e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homework/だけ、のに、ので、.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "だけ、のに、ので、"
+            }
+          },
+          {
+            "id": "1c1b620acdf7e1e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文/文（ぶん）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "文（ぶん）"
+            }
+          },
+          {
+            "id": "f81120f9ea1d3ada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文/マンガの文.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "マンガの文"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文（ぶん）.md",
+                "file": "文/マンガの文.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 文（ぶん）"
+              "title": "Outline of マンガの文"
             }
           },
           {
@@ -158,6 +201,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "0e7fa674056f4302",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -178,14 +231,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e164514f9cdea9c2",
+  "active": "f81120f9ea1d3ada",
   "lastOpenFiles": [
-    "漢字・語彙（かんじ・ごい）.md",
-    "文（ぶん）.md",
-    "JLPT N5 Vocabulary List (with Kanji).md",
+    "Homework/だけ、のに、ので、.md",
+    "マンガのスクリーンショット/Pasted image 20250511230148.png",
+    "文/マンガの文.md",
+    "マンガのスクリーンショット/Pasted image 20250512003226.png",
+    "マンガのスクリーンショット/Pasted image 20250512002858.png",
+    "マンガのスクリーンショット/Pasted image 20250511230650.png",
+    "マンガのスクリーンショット/Pasted image 20250511230640.png",
+    "マンガのスクリーンショット/Pasted image 20250511230620.png",
+    "マンガのスクリーンショット/Pasted image 20250511230212.png",
+    "文/文（ぶん）.md",
+    "マンガのスクリーンショット/Pasted image 20250511225103.png",
+    "マンガのスクリーンショット/Pasted image 20250511225853.png",
+    "マンガのスクリーンショット/Pasted image 20250511225817.png",
     "接獄司（せつごくし）.md",
-    "グレ・１.md",
     "助詞(じょし）.md",
+    "グレ・１.md",
+    "Untitled.md",
+    "JLPT N5 Vocabulary List (with Kanji).md",
+    "文",
+    "マンガのスクリーンショット",
+    "Homework",
+    "漢字・語彙（かんじ・ごい）.md",
     "詩集（ししゅう）.md",
     "動詞（どうし）.md"
   ]
