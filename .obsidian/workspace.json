@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "本.md",
+                "file": "文/ゲームの文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "本"
+              "title": "ゲームの文"
             }
           }
         ],
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本.md",
+                "file": "文/ゲームの文.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 本"
+              "title": "Outline of ゲームの文"
             }
           },
           {
@@ -219,7 +219,15 @@
   },
   "active": "1c1b620acdf7e1e4",
   "lastOpenFiles": [
+    "文/マンガの文.md",
     "文/文（ぶん）.md",
+    "文/マンガのスクリーンショット/Pasted image 20250513225704.png",
+    "文/マンガのスクリーンショット/Pasted image 20250513230403.png",
+    "文/マンガのスクリーンショット/Pasted image 20250513230902.png",
+    "文/マンガのスクリーンショット/Pasted image 20250513233834.png",
+    "Pasted image 20250513233824.png",
+    "文/ゲームの文.md",
+    "Pasted image 20250513230425.png",
     "本.md",
     "漢字・語彙（かんじ・ごい）.md",
     "助詞(じょし）.md",
@@ -227,20 +235,12 @@
     "文/ゲームのスクリーンショット/Pasted image 20250513111509.png",
     "文/ゲームのスクリーンショット/Pasted image 20250513111025.png",
     "接獄司（せつごくし）.md",
-    "文/ゲームの文.md",
-    "文/マンガの文.md",
     "Pasted image 20250513105744-export.md",
     "文/ゲームのスクリーンショット/Pasted image 20250513105744.png",
     "文/ゲームのスクリーンショット",
-    "Pasted image 20250513105602.png",
-    "Pasted image 20250513105622.png",
     "グレ・１.md",
     "マンガの文.pdf",
     "Homework/だけ、のに、ので、.md",
-    "文/マンガのスクリーンショット/Pasted image 20250511230148.png",
-    "文/マンガのスクリーンショット/Pasted image 20250512003226.png",
-    "文/マンガのスクリーンショット/Pasted image 20250512002858.png",
-    "文/マンガのスクリーンショット/Pasted image 20250511230650.png",
     "JLPT N5 Vocabulary List (with Kanji).md",
     "文",
     "文/マンガのスクリーンショット",
