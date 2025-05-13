@@ -53,14 +53,12 @@
             "id": "f81120f9ea1d3ada",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "文/マンガの文.md",
-                "mode": "source",
-                "source": false
+                "file": "文/ゲームのスクリーンショット/Pasted image 20250513105744-export.png"
               },
-              "icon": "lucide-file",
-              "title": "マンガの文"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250513105744-export"
             }
           }
         ],
@@ -184,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文/マンガの文.md",
+                "file": "文/ゲームのスクリーンショット/Pasted image 20250513105744-export.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of マンガの文"
+              "title": "Outline of Pasted image 20250513105744-export"
             }
           },
           {
@@ -218,7 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,30 +229,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f81120f9ea1d3ada",
+  "active": "b1a4dd5500cd626d",
   "lastOpenFiles": [
-    "Homework/だけ、のに、ので、.md",
-    "マンガのスクリーンショット/Pasted image 20250511230148.png",
-    "文/マンガの文.md",
-    "マンガのスクリーンショット/Pasted image 20250512003226.png",
-    "マンガのスクリーンショット/Pasted image 20250512002858.png",
-    "マンガのスクリーンショット/Pasted image 20250511230650.png",
-    "マンガのスクリーンショット/Pasted image 20250511230640.png",
-    "マンガのスクリーンショット/Pasted image 20250511230620.png",
-    "マンガのスクリーンショット/Pasted image 20250511230212.png",
-    "文/文（ぶん）.md",
-    "マンガのスクリーンショット/Pasted image 20250511225103.png",
-    "マンガのスクリーンショット/Pasted image 20250511225853.png",
-    "マンガのスクリーンショット/Pasted image 20250511225817.png",
+    "文/ゲームのスクリーンショット/Pasted image 20250513111509.png",
+    "文/ゲームのスクリーンショット/Pasted image 20250513111025.png",
+    "文/ゲームのスクリーンショット/Pasted image 20250513105744-export.png",
+    "漢字・語彙（かんじ・ごい）.md",
     "接獄司（せつごくし）.md",
     "助詞(じょし）.md",
+    "文/ゲームの文.md",
+    "文/マンガの文.md",
+    "文/文（ぶん）.md",
+    "Pasted image 20250513105744-export.md",
+    "文/ゲームのスクリーンショット/Pasted image 20250513105744.png",
+    "文/ゲームのスクリーンショット",
+    "Pasted image 20250513105602.png",
+    "Pasted image 20250513105622.png",
     "グレ・１.md",
+    "マンガの文.pdf",
+    "Homework/だけ、のに、ので、.md",
+    "文/マンガのスクリーンショット/Pasted image 20250511230148.png",
+    "文/マンガのスクリーンショット/Pasted image 20250512003226.png",
+    "文/マンガのスクリーンショット/Pasted image 20250512002858.png",
+    "文/マンガのスクリーンショット/Pasted image 20250511230650.png",
     "Untitled.md",
     "JLPT N5 Vocabulary List (with Kanji).md",
     "文",
-    "マンガのスクリーンショット",
+    "文/マンガのスクリーンショット",
     "Homework",
-    "漢字・語彙（かんじ・ごい）.md",
     "詩集（ししゅう）.md",
     "動詞（どうし）.md"
   ]
