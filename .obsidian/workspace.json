@@ -41,28 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文/文（ぶん）.md",
+                "file": "本.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文（ぶん）"
-            }
-          },
-          {
-            "id": "f81120f9ea1d3ada",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "文/ゲームのスクリーンショット/Pasted image 20250513105744-export.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250513105744-export"
+              "title": "本"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文/ゲームのスクリーンショット/Pasted image 20250513105744-export.png",
+                "file": "本.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250513105744-export"
+              "title": "Outline of 本"
             }
           },
           {
@@ -229,17 +217,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1a4dd5500cd626d",
+  "active": "1c1b620acdf7e1e4",
   "lastOpenFiles": [
+    "文/文（ぶん）.md",
+    "本.md",
+    "漢字・語彙（かんじ・ごい）.md",
+    "助詞(じょし）.md",
+    "文/ゲームのスクリーンショット/Pasted image 20250513105744-export.png",
     "文/ゲームのスクリーンショット/Pasted image 20250513111509.png",
     "文/ゲームのスクリーンショット/Pasted image 20250513111025.png",
-    "文/ゲームのスクリーンショット/Pasted image 20250513105744-export.png",
-    "漢字・語彙（かんじ・ごい）.md",
     "接獄司（せつごくし）.md",
-    "助詞(じょし）.md",
     "文/ゲームの文.md",
     "文/マンガの文.md",
-    "文/文（ぶん）.md",
     "Pasted image 20250513105744-export.md",
     "文/ゲームのスクリーンショット/Pasted image 20250513105744.png",
     "文/ゲームのスクリーンショット",
@@ -252,7 +241,6 @@
     "文/マンガのスクリーンショット/Pasted image 20250512003226.png",
     "文/マンガのスクリーンショット/Pasted image 20250512002858.png",
     "文/マンガのスクリーンショット/Pasted image 20250511230650.png",
-    "Untitled.md",
     "JLPT N5 Vocabulary List (with Kanji).md",
     "文",
     "文/マンガのスクリーンショット",
