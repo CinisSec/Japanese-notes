@@ -39,14 +39,14 @@
             "id": "1c1b620acdf7e1e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "文/ゲームの文.md",
-                "mode": "source",
-                "source": false
+                "aFile": "文/ゲームの文.md",
+                "bFile": "文/ゲームの文.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "ゲームの文"
+              "icon": "diff",
+              "title": "Diff: ゲームの文"
             }
           }
         ],
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 228.5,
+    "collapsed": true
   },
   "right": {
     "id": "c094486a58ed7853",
@@ -219,28 +220,29 @@
   },
   "active": "1c1b620acdf7e1e4",
   "lastOpenFiles": [
+    "文/ゲームのスクリーンショット/Pasted image 20250514094530.png",
+    "Verbs.md",
+    "漢字・語彙（かんじ・ごい）.md",
+    "接獄司（せつごくし）.md",
+    "助詞(じょし）.md",
+    "マンガの文.pdf",
+    "本.md",
+    "グレ・１.md",
+    "文/ゲームの文.md",
+    "文/ゲームのスクリーンショット/Pasted image 20250514101842.png",
+    "文/ゲームのスクリーンショット/Pasted image 20250514101931.png",
     "文/マンガの文.md",
+    "文/ゲームのスクリーンショット/Pasted image 20250514101627.png",
+    "文/ゲームのスクリーンショット/Pasted image 20250514101600.png",
+    "文/ゲームのスクリーンショット/Pasted image 20250514101519.png",
+    "文/ゲームのスクリーンショット/Pasted image 20250514101450.png",
+    "Homework/だけ、のに、ので、.md",
     "文/文（ぶん）.md",
     "文/マンガのスクリーンショット/Pasted image 20250513225704.png",
     "文/マンガのスクリーンショット/Pasted image 20250513230403.png",
     "文/マンガのスクリーンショット/Pasted image 20250513230902.png",
-    "文/マンガのスクリーンショット/Pasted image 20250513233834.png",
-    "Pasted image 20250513233824.png",
-    "文/ゲームの文.md",
-    "Pasted image 20250513230425.png",
-    "本.md",
-    "漢字・語彙（かんじ・ごい）.md",
-    "助詞(じょし）.md",
-    "文/ゲームのスクリーンショット/Pasted image 20250513105744-export.png",
-    "文/ゲームのスクリーンショット/Pasted image 20250513111509.png",
-    "文/ゲームのスクリーンショット/Pasted image 20250513111025.png",
-    "接獄司（せつごくし）.md",
     "Pasted image 20250513105744-export.md",
-    "文/ゲームのスクリーンショット/Pasted image 20250513105744.png",
     "文/ゲームのスクリーンショット",
-    "グレ・１.md",
-    "マンガの文.pdf",
-    "Homework/だけ、のに、ので、.md",
     "JLPT N5 Vocabulary List (with Kanji).md",
     "文",
     "文/マンガのスクリーンショット",
