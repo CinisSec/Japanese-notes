@@ -27,16 +27,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ショートストリーズ/アポ番長.md",
+                "file": "*Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "アポ番長"
+              "title": "*Tasks"
+            }
+          },
+          {
+            "id": "8708aa44cc3c354c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "漢字・語彙/入力（にゅうりょく）💬↓.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "入力（にゅうりょく）💬↓"
+            }
+          },
+          {
+            "id": "ad76900a5be09f60",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {},
+              "icon": "card-board",
+              "title": "CardBoard"
+            }
+          },
+          {
+            "id": "db1e2b6647015696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "漢字・語彙/地質学（ちしつがく）🪨.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "地質学（ちしつがく）🪨"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -93,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 292.50271224975586
   },
   "right": {
     "id": "c094486a58ed7853",
@@ -156,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ショートストリーズ/アポ番長.md",
+                "file": "漢字・語彙/地質学（ちしつがく）🪨.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of アポ番長"
+              "title": "Outline of 地質学（ちしつがく）🪨"
             }
           },
           {
@@ -204,30 +242,38 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "d3706dc11681c4da",
+  "active": "db1e2b6647015696",
   "lastOpenFiles": [
-    "*Tasks.md",
-    "ショートストリーズ/アポ番長.md",
-    "*Index.md",
+    "漢字・語彙/薬（くすり）💊.md",
+    "漢字・語彙/漢字・語彙（かんじ・ごい）.md",
+    "漢字・語彙/状態（じょうたい）☠️😀😱😲.md",
+    "漢字・語彙/草・木・花・Etc.（くさき）🌱🌳🪻.md",
+    "漢字・語彙/馬勝・建物（ばしょう・たてもの）🗼.md",
+    "漢字・語彙/韻文・言葉（いんぶん）・（ことば）📃.md",
+    "漢字・語彙/食べ物・飲み物（たべもの）・（のみもの）🍙💧.md",
+    "漢字・語彙/体（からだ）👋👁️👅👁️👂.md",
+    "漢字・語彙/宇宙（うちゅう）🪐🌌.md",
+    "漢字・語彙/人口・国（じんこう）・（くに）👤.md",
+    "漢字・語彙/海・湖（うみ・こ）🌊.md",
+    "漢字・語彙/時・時間（とき）・（じかん）🕒.md",
+    "漢字・語彙/天気・物象（てんき・ぶっしょう）🌧️🌁⚡️.md",
+    "漢字・語彙/Nouns.md",
+    "漢字・語彙/動物（どうぶつ）🐶🐔🐟🦑🦐🐍🐝.md",
+    "漢字・語彙/形容詞（けいようし）.md",
+    "漢字・語彙/入力（にゅうりょく）💬↓.md",
+    "漢字・語彙/地質学（ちしつがく）🪨.md",
+    "漢字・語彙/化け物（ばけもの）👹👺😈🦀.md",
+    "文/野ばら・未明小川（のばら・みめいおがわ）.md",
+    "文/文（ぶん）.md",
     "文/マンガの文.md",
     "文/ゲームの文.md",
     "文/グレ・１.md",
-    "文法/動詞（どうし）.md",
-    "文法/助詞(じょし）.md",
-    "本/5分後に.md",
-    "本/本のリスト.md",
-    "本/きまぐれロボット.md",
-    "漢字・語彙/漢字・語彙（かんじ・ごい）.md",
-    "文法/接獄司（せつごくし）.md",
+    "ショートストリーズ/アポ番長.md",
+    "*Index.md",
     "文法",
-    "文/文（ぶん）.md",
-    "2025-06-04.md",
-    "文/野ばら・未明小川（のばら・みめいおがわ）.md",
     "ショートストリーズ",
     "本",
     "マンガの文.pdf",
-    "Homework/だけ、のに、ので、.md",
-    "ナラク.md",
     "漢字・語彙",
     "文/ゲームのスクリーンショット/Pasted image 20250514094530.png",
     "文/ゲームのスクリーンショット/Pasted image 20250514101842.png",
@@ -239,12 +285,9 @@
     "文/マンガのスクリーンショット/Pasted image 20250513225704.png",
     "文/マンガのスクリーンショット/Pasted image 20250513230403.png",
     "文/マンガのスクリーンショット/Pasted image 20250513230902.png",
-    "Pasted image 20250513105744-export.md",
     "文/ゲームのスクリーンショット",
-    "JLPT N5 Vocabulary List (with Kanji).md",
     "文",
     "文/マンガのスクリーンショット",
-    "Homework",
-    "詩集（ししゅう）.md"
+    "Homework"
   ]
 }

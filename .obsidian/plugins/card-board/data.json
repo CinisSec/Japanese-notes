@@ -1,7 +1,39 @@
 {
   "version": "0.13.0",
   "data": {
-    "boardConfigs": [],
+    "boardConfigs": [
+      {
+        "columns": [
+          {
+            "tag": "untagged",
+            "data": {
+              "collapsed": false,
+              "name": "Todo"
+            }
+          },
+          {
+            "tag": "completed",
+            "data": {
+              "collapsed": false,
+              "index": 1,
+              "limit": 10,
+              "name": "Done"
+            }
+          }
+        ],
+        "filters": [
+          {
+            "tag": "pathFilter",
+            "data": "/"
+          }
+        ],
+        "filterPolarity": "Allow",
+        "filterScope": "Both",
+        "name": "Tasks",
+        "showColumnTags": true,
+        "showFilteredTags": true
+      }
+    ],
     "globalSettings": {
       "defaultColumnNames": {
         "today": "",

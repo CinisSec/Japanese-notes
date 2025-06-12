@@ -13,3 +13,8 @@ from #kanji
 LIST
 from #phrases 
 ```
+## 語彙
+```dataview
+list
+from #vocabulary 
+```
